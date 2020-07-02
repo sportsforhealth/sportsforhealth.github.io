@@ -1,0 +1,1101 @@
+header{position:fixed;z-index:9999;}
+					body
+			{
+
+
+				font-family:gunplay;
+
+							}
+
+
+
+				
+					#nav
+			{
+
+				background:url("nav.jpg");
+				height:3em;
+				width:84.2em;
+				margin-top:-2.5em;
+				margin-left:-0.5em;
+				padding-right:0em;
+				font-family:Papyrus;
+				z-index:9999;
+							}
+			
+
+					#nav ul
+			{
+
+				list-style:none;
+				text-decoration:none;
+z-index:9999;
+
+							}
+
+
+
+					#nav ul li
+			{
+
+				float:left;
+z-index:9999;
+				padding:0.7em;
+				text-decoration:none;
+				display:block;
+				padding-top:1.1em;
+
+							}
+
+	
+
+					#nav ul li a
+			{
+
+				text-decoration:none;
+				color:#e7e7e7;
+z-index:9999;
+							}
+
+			
+
+					ul li:hover
+			{
+z-index:9999;
+
+				background:url("nav.jpg");
+				border-bottom:5px dotted #e7e7e7;
+				
+				border-bottom-right-radius:30px;
+				
+				border-bottom-left-radius:30px;
+
+							}
+
+
+
+					#search
+			{
+
+				width:200px;
+				border:2px solid #607b8d;
+				padding:7px;
+				margin-left:-0.5em;
+				border-top-left-radius:15px;
+
+							}
+
+
+
+					#submit
+			{
+
+				background:#607b8d;
+				color:#e7e7e7;
+				border:1px solid #607b8d;
+				padding:7px;
+				margin-left:-0.3em;
+				border-bottom-right-radius:15px;
+
+							}
+
+
+
+					#submit:hover
+			{
+
+				background:black;
+				border:black;
+
+							}
+
+
+
+					header
+			{
+
+				position:fixed;
+				width:84em;
+				margin-top:0;
+
+							}
+
+
+
+					#homeimg h1
+			{
+
+				color:e7e7e7;
+				font-size:7em;
+				font-family:Papyrus;
+
+							}
+
+
+
+					#homeimg
+			{
+
+				width:84.2em;
+				margin-left:-0.5em;
+				height:48em;
+				background:url("intro.jpg");
+							
+							}
+					#home
+			{
+				
+				width:80em;
+				margin-left:2em;
+				height:36em;
+				background:black;
+				border-top-left-radius:20px;
+				border-top-right-radius:20px;
+				border-bottom-left-radius:20px;
+				border-bottom-right-radius:20px;
+
+							}
+					#home .q  
+			{
+
+				height:15em;
+				width:15em;
+				background:black;
+				border-top-left-radius:20px;
+				filter:grayscale(90%);
+				
+
+								}
+					#home .q:hover  
+			{
+
+				filter:grayscale(0);
+				transition:1s all;
+				
+								}
+
+					#home .w  
+			{
+
+				height:36em;
+				width:18em;
+				background:black;
+				margin-left:15.5em;
+				margin-top:-15em;
+				filter:grayscale(90%);
+
+
+								}
+					#home .w:hover  
+			{
+
+				filter:grayscale(0);
+				transition:1s all;
+				
+								}
+					#home .e  
+			{
+
+				height:10em;
+				width:4em;
+				background:black;
+				margin-left:34em;
+				margin-top:-36em;
+				filter:grayscale(90%);
+
+
+								}
+					#home .e:hover  
+			{
+
+				filter:grayscale(0);
+				transition:1s all;
+								}
+					#home .r 
+			{
+
+				height:10em;
+				width:4em;
+				background:black;
+				
+				margin-left:38.5em;
+				margin-top:-10em;
+				filter:grayscale(90%);
+
+
+								}
+					#home .r:hover  
+			{
+
+				filter:grayscale(0);
+				transition:1s all;
+								}
+					#home .t 
+			{
+
+				height:3em;
+				width:37em;
+				background:url("h7.jpg");
+				background:cover;
+				margin-left:43em;
+				margin-top:-11.2em;
+				border-top-right-radius:20px;
+				text-align:center;
+				font-family:papyrus;
+				color:white;
+				filter:grayscale(90%);
+
+
+								}
+					#home .t:hover  
+			{
+
+				filter:grayscale(0);
+				transition:1s all;
+								}
+					#home .y 
+			{
+
+				height:3em;
+				width:3em;
+	
+				background:black;
+				margin-left:43em;
+				margin-top:0.5em;
+				filter:grayscale(90%);
+
+
+								}
+					#home .y:hover  
+			{
+
+				filter:grayscale(0);
+				transition:1s all;
+								}
+					#home .u 
+			{
+
+				height:3em;
+				width:3em;
+				background:black;
+				margin-left:43em;
+				margin-top:0.5em;
+
+				filter:grayscale(90%);
+
+								}
+					#home .u:hover  
+			{
+
+				filter:grayscale(0);
+				transition:1s all;
+								}
+					#home .i 
+			{
+
+				height:6.5em;
+				width:8em;
+				background:black;
+				margin-left:46.5em;
+				margin-top:-6.5em;
+				filter:grayscale(90%);
+
+
+								}
+					#home .i:hover  
+			{
+
+				filter:grayscale(0);
+				transition:1s all;
+								}
+					#home .o 
+			{
+
+				height:6.5em;
+				width:8em;
+				margin-left:55em;
+				margin-top:-6.5em;
+				background:black;
+				filter:grayscale(90%);
+
+								}
+					#home .o:hover  
+			{
+
+				filter:grayscale(0);
+				transition:1s all;
+								}
+
+					#home .p
+			{
+
+				height:6.5em;
+				width:8em;
+				
+				background:black;
+				margin-left:63.5em;
+				margin-top:-6.5em;
+
+				filter:grayscale(90%);
+
+								}
+					#home .p:hover  
+			{
+
+				filter:grayscale(0);
+				transition:1s all;
+								}
+					#home .a
+			{
+
+				height:6.5em;
+				width:8em;
+			
+				background:black;
+				margin-left:72em;
+				margin-top:-6.5em;
+
+				filter:grayscale(90%);
+
+								}
+					#home .a:hover  
+			{
+
+				filter:grayscale(0);
+				transition:1s all;
+								}
+					#home .s
+			{
+
+				height:25.5em;
+				width:46em;
+				background:black;
+				margin-left:34em;
+				margin-top:0.5em;
+				border-bottom-right-radius:20px;
+				filter:grayscale(90%);
+
+									}
+					#home .s:hover  
+			{
+
+				filter:grayscale(0);
+				transition:1s all;
+								}
+					#home .d  
+			{
+
+				height:7em;
+				width:15em;
+				background:black;
+				margin-top:-20.5em;
+				filter:grayscale(90%);
+								}
+					#home .d:hover  
+			{
+
+				filter:grayscale(0);
+				transition:1s all;
+								}
+					
+					#home .f 
+			{
+
+				height:13em;
+				width:4.5em;
+				background:black;
+				margin-top:0.5em;
+				border-bottom-left-radius:20px;
+				filter:grayscale(90%);
+								}
+					#home .f:hover  
+			{
+
+				filter:grayscale(0);
+				transition:1s all;
+								}
+					#home .g 
+			{
+
+				height:13em;
+				width:4.8em;
+				background:black;
+				margin-top:-13em;
+				margin-left:5em;
+				filter:grayscale(90%);
+								}
+					#home .g:hover  
+			{
+
+				filter:grayscale(0);
+				transition:1s all;
+								}
+					#home .h  
+			{
+
+				height:13em;
+				width:4.6em;
+				background:black;
+				margin-top:-13em;
+				margin-left:10.4em;
+				filter:grayscale(90%);			
+								}
+					#home .h:hover  
+			{
+
+				filter:grayscale(0);
+				transition:1s all;
+								}
+					
+
+					
+
+
+					
+					
+
+
+					
+
+
+					
+
+
+					
+
+
+					
+
+
+					
+
+
+
+
+
+					
+
+
+					
+
+
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					#intro
+			{
+
+				width:100%;
+				background:url("intro.jpg");
+				height:70em;
+				margin-left:-0.5em;
+				width:84.2em;
+							
+}
+
+
+
+					#intro .left
+			{
+
+				width:40%;
+				float:left;
+				margin-left:10%;
+				margin-top:6%;
+				background:black;
+				color:white;
+				opacity:0.4;
+				padding:1em;
+				border-top-left-radius:20px;
+				border-bottom-left-radius:20px;			
+							}
+
+			
+					#intro .right
+			{
+
+				width:12.6%;
+				float:left;
+				margin-top:6%;
+								
+						
+							}
+
+
+
+					#game
+			{
+
+				width:83.4em;
+				height:48em;
+				background:url("intro.jpg");
+				margin-left:-0.5em;
+				width:84.2em;
+							
+							}
+
+
+					#gam
+			{
+				height:43em;
+				width:70em;
+				background:white;
+				margin-left:5em;
+				border-top-left-radius:20px;
+				border-top-right-radius:20px;
+				border-bottom-left-radius:20px;
+				border-bottom-right-radius:20px;
+
+
+							}
+					
+							}
+					#bad
+			{
+
+				height:48em;
+				background:url("back.jpg");
+				margin-left:-0.5em;
+				width:84.2em;
+							}
+
+					#bas
+			{
+
+				height:48em;
+				background:url("back.jpg");
+				margin-left:-0.5em;
+				width:84.2em;
+				
+							}
+
+
+					#box
+			{
+
+				height:48em;
+				background:url("back1.jpg");
+				margin-left:-0.5em;
+				width:84.2em;
+							}
+
+
+					#cric
+			{
+
+				height:48em;
+		background:url("back2.jpg");
+				margin-left:-0.5em;
+				width:84.2em;	}
+
+
+					#foot
+			{
+
+				height:48em;
+				background:url("back3.jpg");
+				margin-left:-0.5em;
+				width:84.2em;
+							}
+
+
+					#hoc
+			{
+
+				height:48em;
+						background:url("back4.jpg");
+				margin-left:-0.5em;
+				width:84.2em;
+							}
+
+
+					#swim
+			{
+
+				height:48em;
+						background:url("back5.jpg");
+				margin-left:-0.5em;
+				width:84.2em;
+							}
+
+
+					#wei
+			{
+
+				height:48em;
+			
+						background:url("back.jpg");
+				margin-left:-0.5em;
+				width:84.2em;
+
+							}
+
+
+					#ten
+			{
+
+				height:48em;
+						background:url("back3.jpg");
+				margin-left:-0.5em;
+				width:84.2em;
+							}
+					#wei .cn
+			{
+				background:black;
+				opacity:0.6;
+				width:90%;
+				color:white;
+				margin-left:4%;
+				margin-top:-2%;
+				padding-left:1em;
+				padding-right:1em;
+				padding-top:0.5em;
+				border-top-left-radius:20px;
+				border-top-right-radius:20px;
+				border-bottom-left-radius:20px;
+				border-bottom-right-radius:20px;
+				
+							
+							}
+					#ten .cn
+			{
+				background:black;
+				opacity:0.6;
+				width:90%;
+				color:white;
+				margin-left:4%;
+				margin-top:-2%;
+				padding-left:1em;
+				padding-right:1em;
+				padding-top:0.5em;
+				border-top-left-radius:20px;
+				border-top-right-radius:20px;
+				border-bottom-left-radius:20px;
+				border-bottom-right-radius:20px;
+				
+							
+							}
+					#swim .cn
+			{
+				background:black;
+				opacity:0.6;
+				width:90%;
+				color:white;
+				margin-left:4%;
+				margin-top:-2%;
+				padding-left:1em;
+				padding-right:1em;
+				padding-top:0.5em;
+				border-top-left-radius:20px;
+				border-top-right-radius:20px;
+				border-bottom-left-radius:20px;
+				border-bottom-right-radius:20px;
+							
+							}
+					#hoc .cn
+			{
+				background:black;
+				opacity:0.6;
+				width:90%;
+				color:white;
+				margin-left:4%;
+				margin-top:-2%;
+				padding-left:1em;
+				padding-right:1em;
+				padding-top:0.5em;
+				border-top-left-radius:20px;
+				border-top-right-radius:20px;
+				border-bottom-left-radius:20px;
+				border-bottom-right-radius:20px;
+							
+							}
+					#foot .cn
+			{
+				background:black;
+				opacity:0.6;
+				width:90%;
+				color:white;
+				margin-left:4%;
+				margin-top:-2%;
+				padding-left:1em;
+				padding-right:1em;
+				padding-top:0.5em;
+				border-top-left-radius:20px;
+				border-top-right-radius:20px;
+				border-bottom-left-radius:20px;
+				border-bottom-right-radius:20px;
+							
+							}
+					#cric .cn
+			{
+				background:black;
+				opacity:0.6;
+				width:90%;
+				color:white;
+				margin-left:4%;
+				margin-top:-2%;
+				padding-left:1em;
+				padding-right:1em;
+				padding-top:0.5em;
+				border-top-left-radius:20px;
+				border-top-right-radius:20px;
+				border-bottom-left-radius:20px;
+				border-bottom-right-radius:20px;
+							
+							}
+					#box .cn
+			{
+				background:black;
+				opacity:0.6;
+				width:90%;
+				color:white;
+				margin-left:4%;
+				margin-top:-2%;
+				padding-left:1em;
+				padding-right:1em;
+				padding-top:0.5em;
+				border-top-left-radius:20px;
+				border-top-right-radius:20px;
+				border-bottom-left-radius:20px;
+				border-bottom-right-radius:20px;
+							
+							}
+					#bas .cn
+			{
+				background:black;
+				opacity:0.6;
+				width:90%;
+				color:white;
+				margin-left:4%;
+				margin-top:-2%;
+				padding-left:1em;
+				padding-right:1em;
+				padding-top:0.5em;
+				border-top-left-radius:20px;
+				border-top-right-radius:20px;
+				border-bottom-left-radius:20px;
+				border-bottom-right-radius:20px;
+							
+							}
+					#bad .cn
+			{
+				background:black;
+				opacity:0.6;
+				width:90%;
+				color:white;
+				margin-left:4%;
+				margin-top:-2%;
+				padding-left:1em;
+				padding-right:1em;
+				padding-top:0.5em;
+				border-top-left-radius:20px;
+				border-top-right-radius:20px;
+				border-bottom-left-radius:20px;
+				border-bottom-right-radius:20px;
+							
+							}
+
+
+					#topplayers
+			{
+				height:50em;
+				width:84.2em;
+				margin-left:-0.5em;
+				background:url("intro.jpg");
+
+
+
+							}
+					
+					#top
+			{
+				height:42em;
+				width:60em;
+				background:white;
+				margin-left:11em;
+				margin-top:2em;
+				margin-bottom:2em;
+				padding:1em;
+				border-top-left-radius:20px;
+				border-top-right-radius:20px;
+				border-bottom-left-radius:20px;
+				border-bottom-right-radius:20px;
+							}
+											
+							
+							
+							
+							
+							
+							
+
+							
+
+
+
+
+					#social
+			{
+
+				width:84.2em;
+				background:url("social.jpg");
+				image-height:40em;
+				height:48em;
+				margin-left:-0.5em;
+				font-family:Gabriola;
+				color:#e7e7e7;
+
+							}
+
+
+
+					#social h1
+			{
+
+				font-size:6em;
+
+							}
+
+
+
+					#social a
+			{
+
+				filter:grayscale(100%);
+
+							}
+
+
+
+					#social a:hover
+			{
+
+				filter:grayscale(0);
+				transition:1s all;
+				padding:3em;
+
+							}
+
+
+
+					#signup
+			{
+
+				width:83.1em;
+				margin-left:-0.5em;
+				padding-right:1em;
+				height:48em;
+				background:url("signup.jpg");
+				color:#e7e7e7;
+				margin-top:-1em;
+
+							}
+
+
+
+					#signup a
+			{
+
+				color:#bababa;
+
+							}
+
+
+
+					#s1
+			{
+
+				background:black;
+				color:white;
+				border:black;
+				height:2em;
+
+							}
+
+
+
+					#s1:hover
+			{
+
+				border-top:5px solid red;
+
+							}
+					a
+			{
+
+				text-decoration:none;
+							}
+
+
+
+					#si
+			{
+
+				height:2em;
+				text-align:center;
+				border:0;
+				background:#555;
+				
+				color:white;
+
+							}
+
+
+
+					#contact
+			{
+
+				height:37em;
+				width:84.2em;
+				margin-left:-0.5em;
+				font-family:Copperplate Gothic;
+				background:url("contact.jpg");
+				background-image:repeat;
+				
+							
+								}
+
+
+
+					#contact1
+			{
+				height:28em;
+				width:70em;			
+				margin-left:7em;			
+				border-top-left-radius:20px;
+				border-top-right-radius:20px;
+				border-bottom-left-radius:20px;
+				border-bottom-right-radius:20px;
+			        background:white;
+				margin-top:1em;
+				opacity:0.9;
+				filter:alpha("opacity=90");
+									}
+				
+
+
+
+					#contact1 .left
+			{
+
+				float:left;
+				width:35em;
+
+
+							}
+					#contact1 .right
+			{
+
+				float:left;
+				width:35em;
+				margin-top:3em;
+				
+
+							}
+					#contact h1
+			{
+				font-family:Monotype Corsiva;			
+							}
+				
+	
+			
+
+					
+
+
+
+					#nam
+			{
+
+				height:3em;
+				padding:1em;
+				text-align:center;
+		
+
+							}
+
+
+
+					#email
+			{
+
+				height:3em;
+				padding:1em;
+				text-align:center;
+
+							}
+
+
+
+					#comment
+			{
+
+				height:3em;
+				padding:1em;
+				width:26.1em;
+				text-align:center;
+
+							}
+
+
+					#s
+			{
+
+				height:2em;
+				padding-top:-1em;
+				display:block;
+				margin-left:0em;
+				background:black;
+				color:white;
+				border:black;
+
+							}
+
+
+
+					#s:hover
+			{
+
+				border-top:5px solid red;
+				cursor:pointer;
+
+							}
+
+
+
+					h6
+			{
+
+				padding-top:0.9em;
+				padding-left:103.3em;
+
+							}
+
+				
